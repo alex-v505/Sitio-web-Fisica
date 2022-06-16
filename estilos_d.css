@@ -1,0 +1,32 @@
+@font-face{
+    font-family: "My fuente";
+    src: url('fonds/static/RobotoSlab-Bold.ttf');
+
+}
+@font-face{
+    font-family: "My fuente2";
+    src: url('fonds/static/RobotoSlab-Medium.ttf');
+}
+
+@font-face{
+    font-family: "My fuente3";
+    src: url('fonds/static/RobotoSlab-Regular.ttf');
+}
+
+h1{
+    font-family: "My fuente";
+}
+h2{
+    font-family: "My fuente2";
+}
+p{
+    font-family: "My fuente3";
+}
+
+.container-all img{
+    
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
